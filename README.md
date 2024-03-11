@@ -8,10 +8,10 @@
   * name: ภานุพงศ์ ศรีเมือง
 
 ## technology: 
-[pygame/streamlit]
+[streamlit]
 
 ## application description:
-รายละเอียดโครงงาน
+การแปลงเลขฐานสองเป็นฐานสิบ และเลขฐานต่างๆ
 
 ## presentation: 
 [slide/canva/etc..] link [public/ubu]
