@@ -90,11 +90,11 @@ def hexadecimal_to_decimal(n):
     return decimal
 
 def main():
-    if menu_option == 'เลขฐาน2'and'เลขฐาน3':
+    if menu_option == 'เลขฐาน2':
         st.title(":red[แปลงเลขฐานสอง]")
 
         # สร้างช่องข้อมูลให้ผู้ใช้ป้อน
-        option = st.selectbox("เลือกตัวเลือก:", ["ทศนิยมเป็นเลขฐานสอง", "ไบนารีเป็นทศนิยม"])
+        option = st.selectbox("เลือกตัวเลือก:", ["ทศนิยมเป็นเลขฐานสอง", "ฐานสองเป็นทศนิยม"])
 
         # รับข้อมูลเลขทศนิยม
         if option == "ทศนิยมเป็นเลขฐานสอง":
