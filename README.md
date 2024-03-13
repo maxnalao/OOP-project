@@ -14,7 +14,7 @@
 การแปลงเลขฐานสองเป็นฐานสิบ และเลขฐานต่างๆ
 
 ## presentation: 
-[slide/canva/etc..] link [https://www.canva.com/design/DAF_GPdKAfI/b9269nw-_x-Qpi6ZuNSUrA/edit?utm_content=DAF_GPdKAfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+[slide/canva/etc..] link [https://drive.google.com/file/d/13Unm-jyUgdLUQZGss9_OQ4f2fgdX5FBy/view?usp=sharing]
 
 ## video: 
 link [public/ubu]
